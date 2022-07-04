@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Sudhanshu</h1>
+<h1 align="center">Hello, I'm Sudhanshu</h1>
 <h3 align="center">Data science & Cloud enthusiast</h3>
 
 - 🌱 I’m currently learning **Database & Container Management, Technical writing**
