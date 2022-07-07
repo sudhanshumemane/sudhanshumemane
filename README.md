@@ -5,7 +5,7 @@
 
 - 📝 I write blog sometimes [Uncommon](https://memane.substack.com/)
 
-- 📫 Reach out to me **@sudhanshumemane@gmail.com** or **Twitter DM** 
+- 📫 Reach out to me **sudhanshumemane@gmail.com** or **Twitter DM** 
 
 
 
