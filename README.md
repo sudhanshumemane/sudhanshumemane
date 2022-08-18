@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Sudhanshu</h1>
-<h3 align="center">Data science & Cloud enthusiast</h3>
 
--  CS grad currently digging **Machine learning, database & container management, technical writing** domains
+-  Machine learning, cloud and databases are my things :)
 
 -  I write blog sometimes [Uncommon](https://memane.substack.com/)
 
