@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Sudhanshu</h1>
 
--  Machine learning, cloud and databases are my things :)
+-  Guy who sleeps on machine learning, cloud and database tooling
 
 -  I write blog sometimes [Uncommon](https://memane.substack.com/)
 
--  Reach out to me **sudhanshumemane@gmail.com** or **Twitter DM** 
+-  Contact me **sudhanshumemane@gmail.com** or **Twitter DM** 
 
 
 <h2 align="center">Tech Skills</h2>
