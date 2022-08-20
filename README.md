@@ -7,7 +7,7 @@
 -  Contact me **sudhanshumemane@gmail.com** or **Twitter DM** 
 
 
-<h2 align="center">Tech Skills</h2>
+<h2>Tech Skills</h2>
 
 ###
 
