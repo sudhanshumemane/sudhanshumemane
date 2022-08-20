@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Sudhanshu</h1>
 
--  Guy who sleeps on machine learning, cloud and database tooling
+-  Willing to die on hill of machine learning, cloud and database tooling
 
 -  I write blog sometimes [Uncommon](https://memane.substack.com/)
 
