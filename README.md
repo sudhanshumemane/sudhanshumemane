@@ -2,7 +2,7 @@
 
 -  Willing to die on hill of machine learning, cloud computing and database tooling
 
--  I write blog sometimes [Uncommon](https://memane.substack.com/)
+-  I write blog sometimes **[Uncommon](https://memane.substack.com/)**
 
 -  Contact me **sudhanshumemane@gmail.com** or **Twitter DM** 
 
