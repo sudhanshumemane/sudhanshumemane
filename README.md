@@ -6,7 +6,6 @@ I also write 📝 [articles](https://memane.substack.com/https://memane.substack
 
 Currently, advancing & exploring machine learning and cloud domains
 
-### Get in touch
+### Get in touch :speech_balloon:
 
 [Twitter](https://twitter.com/sudhanshumemane) | [LinkedIn](https://www.linkedin.com/in/sudhanshumemane)
-:envelope:
