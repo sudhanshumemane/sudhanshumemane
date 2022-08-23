@@ -1,29 +1,11 @@
-<h1 align="center">Hi, I'm Sudhanshu</h1>
+### Hi there!
 
--  Willing to die on hill of machine learning, cloud computing and database tooling
+I'm Sudhanshu. I am CS student skilled in Data Science & Database tooling. 
 
--  I write blog sometimes **[Uncommon](https://memane.substack.com/)**
+I also write 📝 [articles](https://memane.substack.com/https://memane.substack.com/) about history, business & tech related topics
 
--  Contact me **sudhanshumemane@gmail.com** or **Twitter DM** 
+Currently, advancing & exploring machine learning and cloud domains
 
+### Get in touch
 
-<h2 align="center">Tech Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" width="52" alt="julia logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
-</div>
-
-###
+Twitter [DM](https://twitter.com/sudhanshumemane) | [Email](sudhanshumemane@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sudhanshumemane)
