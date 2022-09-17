@@ -1,5 +1,5 @@
 ### Hi there! :wave:
 
-I'm Sudhanshu. CS grad skilled in Data Science & Database tooling. 
+I'm Sudhanshu. I like to dive into data & clouds
 
 I also write 📝 [articles](https://memane.substack.com/https://memane.substack.com/) around history & tech related topics
