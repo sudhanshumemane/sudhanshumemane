@@ -1,4 +1,4 @@
-### Hi there! :wave:
+### Hey there! :wave:
 
 I'm Sudhanshu. I like to dive into data & clouds
 
